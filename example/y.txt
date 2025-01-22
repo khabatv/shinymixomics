@@ -1,0 +1,16 @@
+	Subtype
+1	Basal
+2	Basal
+3	Basal
+4	Basal
+5	Basal
+6	Her2
+7	Her2
+8	Her2
+9	Her2
+10	Her2
+11	LumA
+12	LumA
+13	LumA
+14	LumA
+15	LumA
